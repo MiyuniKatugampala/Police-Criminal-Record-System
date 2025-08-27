@@ -26,7 +26,7 @@ The prototype demonstrates how this app could help police officers by:
 
 ## 🎨 Prototype Access
 View the Figma prototype here:  
-👉 [Figma Project Link](#) <!-- Replace # with your actual Figma link -->
+👉 [Figma Project Link](https://www.figma.com/design/mf9BtAjhfQThL0HneOL2ti/New?node-id=0-1&t=o9z72sMZzU9qT4sT-1) <!-- Replace # with your actual Figma link -->
 
 ---
 
